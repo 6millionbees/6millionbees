@@ -17,7 +17,6 @@ I am currently learning basic graphics programming through a program in my schoo
 I am the Lead Programmer (only programmer) for FRC team 9176 *go steel sturgeons* 🦈!!!! Currently the evil combination of Trapazoid profile + Feedforward controller + PID controller that we need for our climb is KICKING MY ASS. It doesn't help that I basically have no idea what I'm doing half the time and we don't have any mentors or students that know a single thing about programming anything, aside from 2 of the engineering students that had a small *very small* course on programming an arduino with C.
 
 #### Golgotha
-Because I have no chill I am also working on programming a little passion project. You don't get any details about it as I have just started. The only thing you get to know is that it's an text based RPG made using python curses and two other secret libraries that will help us later.
-
+Because I have no chill I am also working on programming a little passion project. You don't get any details about it as I have just started. It broke containment and transformed into a full blown game... help me.
 
 <sub>This README was last updated on 4/27/2026</sub>
